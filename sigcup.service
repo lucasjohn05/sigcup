@@ -1,0 +1,12 @@
+[Unit]
+Description=sigcup bot
+After=network-online.target
+
+[Service]
+WorkingDirectory=/home/USER/sigcup
+ExecStart=/home/USER/sigcup/sigcup -mode live
+Restart=on-failure
+RestartSec=30
+
+[Install]
+WantedBy=multi-user.target

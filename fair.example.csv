@@ -1,0 +1,14 @@
+# fair.csv: YOUR fair value for SUSQ contracts with no liquid Kalshi market.
+# Copy to fair.csv and fill in. The bot trades these at -fair-edge (8 pts)
+# through your number. Leave the file absent to disable.
+#
+# p_yes = probability THIS contract's YES pays. For a Dem contract in a seat
+# rated Lean R, that's about 0.20, not 0.80.
+#
+# Rough historical conversion of Cook / Sabato / Inside Elections ratings to
+# P(favored party wins): Toss-up 0.50, Tilt 0.60, Lean 0.80, Likely 0.93,
+# Solid 0.98. Use the most recent rating; in a wave year, ratings lag.
+#
+# verified=true skips the 15-pt suspect-gap guard for that row.
+exchange_id,p_yes,source,verified
+# 283,0.20,Cook Lean R as of 9/28 (fake id),

@@ -1,0 +1,121 @@
+# One row per race. anti = the side that beats the Republican (D, or I where noted).
+# anti_px/gop_px: YES mids when this file was built. p_fair: >>> YOU (optional) your own
+# P(anti-GOP wins), e.g. Kalshi or a rating conversion. Blank = use market prices.
+race,kind,state,anti_party,anti_id,gop_id,anti_px,gop_px,p_fair,note
+AK-GOV,gov,AK,D,1057,1058,0.785,0.210,,
+AK-SEN,sen,AK,D,1066,1067,0.705,0.305,,
+AL-02,house,AL,D,1007,1008,0.245,0.755,,
+AL-GOV,gov,AL,D,844,845,0.105,0.910,,
+AL-SEN,sen,AL,D,941,942,0.080,0.930,,blank price filled from seed board
+AR-GOV,gov,AR,D,846,847,0.080,0.930,,blank price filled from seed board
+AR-SEN,sen,AR,D,943,944,0.070,0.935,,
+AZ-01,house,AZ,D,886,887,0.775,0.215,,
+AZ-06,house,AZ,D,888,889,0.840,0.155,,
+AZ-GOV,gov,AZ,D,848,849,0.875,0.115,,
+CA-22,house,CA,D,890,891,0.910,0.090,,
+CA-48,house,CA,D,892,893,0.910,0.090,,
+CA-GOV,gov,CA,D,850,851,0.930,0.080,,blank price filled from seed board
+CO-03,house,CO,D,894,895,0.350,0.635,,
+CO-04,house,CO,D,896,897,0.295,0.695,,
+CO-08,house,CO,D,898,899,0.865,0.135,,
+CO-GOV,gov,CO,D,852,853,0.930,0.080,,blank price filled from seed board
+CO-SEN,sen,CO,D,945,946,0.950,0.060,,blank price filled from seed board
+CT-GOV,gov,CT,D,987,854,0.920,0.080,,blank price filled from seed board
+DE-SEN,sen,DE,D,1042,1075,0.950,0.120,,blank price filled from seed board
+FL-07,house,FL,D,1009,1010,0.320,0.685,,
+FL-09,house,FL,D,900,1011,0.290,0.705,,
+FL-13,house,FL,D,1012,901,0.285,0.725,,
+FL-16,house,FL,D,1013,1014,0.165,0.830,,
+FL-20,house,FL,D,1015,1016,0.930,0.060,,blank price filled from seed board
+FL-22,house,FL,D,1017,1018,0.525,0.480,,
+FL-GOV,gov,FL,D,988,989,0.225,0.765,,
+FL-SEN,sen,FL,D,1043,1044,0.105,0.905,,
+GA-GOV,gov,GA,D,855,856,0.485,0.515,,
+GA-SEN,sen,GA,D,947,948,0.955,0.050,,
+HI-GOV,gov,HI,D,990,991,0.930,0.070,,blank price filled from seed board
+IA-01,house,IA,D,902,903,0.825,0.160,,
+IA-02,house,IA,D,904,905,0.535,0.455,,
+IA-03,house,IA,D,906,907,0.755,0.245,,
+IA-GOV,gov,IA,D,857,858,0.835,0.165,,
+IA-SEN,sen,IA,D,949,950,0.415,0.595,,
+ID-GOV,gov,ID,D,859,860,0.070,0.940,,blank price filled from seed board
+ID-SEN,sen,ID,D,951,952,0.050,0.920,,blank price filled from seed board
+IL-GOV,gov,IL,D,861,862,0.930,0.070,,blank price filled from seed board
+IL-SEN,sen,IL,D,953,954,0.950,0.060,,blank price filled from seed board
+KS-GOV,gov,KS,D,992,993,0.275,0.725,,
+KS-SEN,sen,KS,D,1045,1046,0.295,0.705,,
+KY-04,house,KY,D,908,909,0.050,0.935,,
+KY-SEN,sen,KY,D,955,956,0.050,0.955,,
+LA-SEN,sen,LA,D,957,958,0.080,0.915,,
+MA-GOV,gov,MA,D,1059,1060,0.955,0.045,,
+MA-SEN,sen,MA,D,1068,1069,0.950,0.050,,blank price filled from seed board
+MD-GOV,gov,MD,D,863,864,0.930,0.080,,blank price filled from seed board
+ME-02,house,ME,D,910,911,0.355,0.640,,
+ME-GOV,gov,ME,D,865,866,0.945,0.050,,
+ME-SEN,sen,ME,D,959,960,0.595,0.415,,
+MI-07,house,MI,D,1019,1020,0.585,0.415,,
+MI-10,house,MI,D,1021,1022,0.655,0.345,,
+MI-GOV,gov,MI,D,994,995,0.925,0.080,,
+MI-SEN,sen,MI,D,1047,1048,0.735,0.265,,
+MN-01,house,MN,D,1023,1024,0.235,0.760,,
+MN-02,house,MN,D,1025,1026,0.935,0.060,,
+MN-05,house,MN,D,1027,1028,0.930,0.045,,blank price filled from seed board
+MN-GOV,gov,MN,D,996,997,0.950,0.055,,
+MN-SEN,sen,MN,D,1049,1050,0.885,0.115,,
+MS-SEN,sen,MS,D,961,962,0.095,0.900,,
+MT-01,house,MT,D,912,913,0.320,0.675,,
+MT-SEN,sen,MT,I,965,964,0.085,0.915,,Independent is the anti-GOP side; check the Info tab
+NC-SEN,sen,NC,D,966,967,0.945,0.060,,
+NE-02,house,NE,D,914,915,0.920,0.075,,
+NE-GOV,gov,NE,D,867,868,0.090,0.900,,
+NE-SEN,sen,NE,I,969,970,0.280,0.725,,Independent is the anti-GOP side; check the Info tab
+NH-01,house,NH,D,1064,1065,0.935,0.080,,blank price filled from seed board
+NH-GOV,gov,NH,D,1061,1062,0.070,0.920,,
+NH-SEN,sen,NH,D,1070,1071,0.865,0.145,,
+NJ-07,house,NJ,D,916,917,0.875,0.115,,
+NJ-SEN,sen,NJ,D,971,972,0.940,0.050,,blank price filled from seed board
+NM-GOV,gov,NM,D,869,870,0.930,0.070,,
+NM-SEN,sen,NM,D,973,974,0.950,0.060,,blank price filled from seed board
+NV-GOV,gov,NV,D,871,872,0.460,0.535,,
+NY-13,house,NY,D,918,919,0.940,0.070,,blank price filled from seed board
+NY-17,house,NY,D,920,921,0.615,0.385,,
+NY-GOV,gov,NY,D,873,874,0.950,0.055,,
+OK-GOV,gov,OK,D,875,1063,0.070,0.925,,
+OK-SEN,sen,OK,D,1072,975,0.060,0.940,,blank price filled from seed board
+OR-GOV,gov,OR,D,876,877,0.795,0.205,,
+OR-SEN,sen,OR,D,976,977,0.950,0.060,,blank price filled from seed board
+PA-01,house,PA,D,922,923,0.365,0.635,,
+PA-07,house,PA,D,924,925,0.845,0.155,,
+PA-08,house,PA,D,926,927,0.665,0.325,,
+PA-10,house,PA,D,928,929,0.795,0.185,,
+PA-GOV,gov,PA,D,878,879,0.940,0.080,,blank price filled from seed board
+RI-GOV,gov,RI,D,1073,1074,0.930,0.060,,has an Independent market too; GOP NO also pays if the Independent wins; blank price filled from seed board
+RI-SEN,sen,RI,D,1076,1077,0.950,0.050,,blank price filled from seed board
+SC-01,house,SC,D,930,931,0.285,0.720,,
+SC-GOV,gov,SC,D,881,882,0.055,0.945,,
+SC-SEN,sen,SC,D,978,979,0.135,0.875,,
+SD-GOV,gov,SD,D,883,998,0.070,0.940,,blank price filled from seed board
+SD-SEN,sen,SD,D,980,981,0.050,0.920,,blank price filled from seed board
+TN-05,house,TN,D,1029,1030,0.085,0.910,,
+TN-GOV,gov,TN,D,999,1000,0.065,0.940,,
+TN-SEN,sen,TN,D,1051,1052,0.060,0.940,,blank price filled from seed board
+TX-15,house,TX,D,932,933,0.740,0.265,,
+TX-23,house,TX,D,934,935,0.340,0.670,,
+TX-28,house,TX,D,936,937,0.895,0.115,,
+TX-GOV,gov,TX,D,884,885,0.235,0.775,,
+TX-SEN,sen,TX,D,982,983,0.630,0.375,,
+US-HOUSE,control,US,D,840,841,0.915,0.085,,
+US-SEN,control,US,D,842,843,0.625,0.385,,
+VA-01,house,VA,D,1031,938,0.395,0.605,,
+VA-02,house,VA,D,1032,939,0.795,0.195,,
+VA-05,house,VA,D,1033,1034,0.195,0.805,,
+VA-07,house,VA,D,940,1035,0.930,0.060,,
+VA-SEN,sen,VA,D,984,1053,0.950,0.060,,blank price filled from seed board
+VT-GOV,gov,VT,D,1001,1002,0.175,0.835,,
+WA-03,house,WA,D,1036,1037,0.900,0.090,,
+WI-01,house,WI,D,1038,1039,0.330,0.670,,
+WI-03,house,WI,D,1040,1041,0.730,0.275,,
+WI-GOV,gov,WI,D,1003,1004,0.815,0.185,,
+WV-SEN,sen,WV,D,985,986,0.070,0.940,,blank price filled from seed board
+WY-GOV,gov,WY,D,1005,1006,0.080,0.930,,blank price filled from seed board
+WY-SEN,sen,WY,D,1054,1055,0.070,0.940,,blank price filled from seed board

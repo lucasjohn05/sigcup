@@ -1,0 +1,11 @@
+.env
+*.jsonl
+markets_dump.csv
+STOP
+/sigcup
+depth.csv
+leaderboard.csv
+known_markets.txt
+flatten.csv
+sim_report.txt
+*.exe

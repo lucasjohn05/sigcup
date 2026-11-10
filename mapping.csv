@@ -1,0 +1,8 @@
+# susq_exchange_id,kalshi_ticker,invert,note,verified
+# invert=true when the SUSQ contract is the opposite side of the Kalshi YES
+# (e.g. SUSQ "GOP wins House" vs a Kalshi "Democrats win House" ticker).
+# Only map contracts whose resolution rules match. Read both Info tabs first.
+# verified=true skips the suspect-gap check (see README). Leave it blank
+# until the bot flags the row and you've confirmed the gap is real.
+# Example (fake IDs):
+# 212,CONTROLH-2026-D,false,House control Dem,

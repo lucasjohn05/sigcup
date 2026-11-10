@@ -1,0 +1,9 @@
+# One file per (poll-closing wave, swing bucket), built before Nov 3.
+# e.g. batches/w2_D6.csv = "8pm ET wave, national swing looks like D+6".
+# Rows fire in order and use cash in order: most important first.
+# Prices are YES space. limit = worst price you'll accept.
+# Fake IDs below.
+exchange_id,action,limit,quantity,notional,note
+1234,buy,0.35,,8000,AZ-06 Dem (slow count)
+1240,buy,0.30,,6000,CA-45 Dem (slow count)
+1302,sell,0.60,,5000,NV Sen GOP (sell GOP = long Dem)
